@@ -1,0 +1,15 @@
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.csproj.AssemblyReference.cache
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.AssemblyInfoInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.AssemblyInfo.cs
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.csproj.CoreCompileInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\bin\Debug\net6.0\task_50.exe
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\bin\Debug\net6.0\task_50.deps.json
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\bin\Debug\net6.0\task_50.runtimeconfig.json
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\bin\Debug\net6.0\task_50.dll
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\bin\Debug\net6.0\task_50.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.dll
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\refint\task_50.dll
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\task_50.genruntimeconfig.cache
+C:\Users\pimak\OneDrive\Рабочий стол\языки прогромирования с#\3. Домашка\семинар_7\task_50\obj\Debug\net6.0\ref\task_50.dll
